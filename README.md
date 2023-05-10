@@ -1,4 +1,4 @@
-# Introdcution
+# Introduction
 Haberman’s data set contains data from the study conducted in University of Chicago’s Billings Hospital between year 1958 to 1970 for the patients who undergone surgery of breast cancer. Source :https://www.kaggle.com/gilsousa/habermans-survival-data-set)
 
 I would like to explain the various data analysis operation, I have done on this data set and how to conclude or predict survival status of patients who undergone from surgery.
